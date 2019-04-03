@@ -3,7 +3,7 @@
 
     <test name ="testorder2">
         <classes>
-            <class name = "Main" >
+            <class name = "TestFloder.Main" >
                 <methods>
                     <include name = "TestCat"/>
                     <include name = "TestEat"/>
